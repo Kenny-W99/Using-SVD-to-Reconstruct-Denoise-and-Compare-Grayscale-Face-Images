@@ -1,5 +1,5 @@
 {
-  "dataset_path":"att_faces_dataset.zip",
+  "dataset_path":".\/att_faces_dataset",
   "num_images":400,
   "num_subjects":40,
   "image_shape":[
