@@ -1,0 +1,24 @@
+SVD Face Project Summary
+========================
+
+Best reconstruction setting
+---------------------------
+k = 30
+Average relative Frobenius error = 0.0084
+Average energy retained = 0.9999
+Compression ratio = 0.7918
+
+Best denoising setting
+----------------------
+sigma = 20.0
+k = 10
+Average noisy error = 0.1652
+Average denoised error = 0.1299
+Average error reduction = 0.0352
+
+Best matching setting
+---------------------
+Clean baseline accuracy = 0.9563
+Best SVD matching sigma = 10.0
+Best SVD matching k = 5
+Best SVD matching accuracy = 0.9750

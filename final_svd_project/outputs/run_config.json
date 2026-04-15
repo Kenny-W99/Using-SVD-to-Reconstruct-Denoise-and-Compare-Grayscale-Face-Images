@@ -1,0 +1,26 @@
+{
+  "dataset_path":"att_faces_dataset.zip",
+  "num_images":400,
+  "num_subjects":40,
+  "image_shape":[
+    48,
+    48
+  ],
+  "k_values":[
+    5,
+    10,
+    20,
+    30
+  ],
+  "noise_sigmas":[
+    10.0,
+    20.0
+  ],
+  "train_per_subject":6,
+  "denoise_trials":1,
+  "seed":42,
+  "max_subjects":0,
+  "max_images_per_subject":0,
+  "resize_width":48,
+  "resize_height":48
+}

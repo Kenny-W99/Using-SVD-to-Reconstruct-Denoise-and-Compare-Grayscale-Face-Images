@@ -1,0 +1,12 @@
+mode,sigma,k,accuracy
+clean_baseline,0.0,,0.95625
+noisy_baseline,10.0,,0.9625
+svd_denoised_match,10.0,5.0,0.975
+svd_denoised_match,10.0,10.0,0.95625
+svd_denoised_match,10.0,20.0,0.9625
+svd_denoised_match,10.0,30.0,0.9625
+noisy_baseline,20.0,,0.95625
+svd_denoised_match,20.0,5.0,0.96875
+svd_denoised_match,20.0,10.0,0.9625
+svd_denoised_match,20.0,20.0,0.95625
+svd_denoised_match,20.0,30.0,0.95625
