@@ -74,3 +74,6 @@ The script saves:
 
 
 If SVD runs very slowly on your machine, use `./run_project.sh` because it sets safer BLAS thread limits before Python starts.
+
+The original dataset images are stored in .pgm format, which is a standard grayscale image format.
+The project code reads these files directly and processes them as image matrices.
